@@ -8,7 +8,7 @@ Ensure that Go is installed on your system. Verify the installation by running t
 ## Running the JSON Parsing Code
 
 ## Steps to Execute
-1) GNavigate to the /JSON_Parsing directory.
+1) Navigate to the /JSON_Parsing directory.
 2) Run the following command to start the program:
 <pre> go run . </pre>
 
