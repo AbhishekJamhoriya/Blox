@@ -3,7 +3,7 @@
 ## Prerequisites
 
 Ensure that Go is installed on your system. Verify the installation by running the following command in your terminal:
-<pre> go run . </pre>
+<pre> go version </pre>
 
 ## Running the JSON Parsing Code
 
